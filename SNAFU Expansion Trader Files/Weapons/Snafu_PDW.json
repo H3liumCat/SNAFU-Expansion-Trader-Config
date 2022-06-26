@@ -1,0 +1,63 @@
+{
+	"m_Version": 9,
+	"DisplayName": "SNAFU PDW'S",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
+			"ClassName": "GCGN_MP7",
+			"MaxPriceThreshold": 20000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "SNAFUHoneyBadger_Black",
+			"MaxPriceThreshold": 20000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"SNAFUHoneyBadger_Tan"
+			]
+		},
+		{
+			"ClassName": "SNAFU_KAC_Gun",
+			"MaxPriceThreshold": 20000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "SNAFU_PDW_45ACP",
+			"MaxPriceThreshold": 20000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "SNAFU_PDW_9mm",
+			"MaxPriceThreshold": 20000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}

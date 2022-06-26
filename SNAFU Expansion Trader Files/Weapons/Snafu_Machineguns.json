@@ -1,0 +1,51 @@
+{
+	"m_Version": 9,
+	"DisplayName": "SNAFU MACHINEGUNS",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75.0,
+	"Items": [
+		{
+			"ClassName": "SNAFU_U100",
+			"MaxPriceThreshold": 20000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "GCGN_M249",
+			"MaxPriceThreshold": 20000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "SNAFURPD",
+			"MaxPriceThreshold": 20000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "Snafu_pkp_Black_GUN",
+			"MaxPriceThreshold": 20000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 100,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"Snafu_pkp_NBlack_GUN"
+			]
+		}
+	]
+}
